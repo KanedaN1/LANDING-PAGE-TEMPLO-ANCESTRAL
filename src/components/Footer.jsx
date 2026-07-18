@@ -18,9 +18,9 @@ export default function Footer() {
         
         <div className="footer-social">
           <h4>Siga-nos</h4>
-          <a href="#" className="social-link">
+          <a href="https://www.instagram.com/temploancestralsantos" target="_blank" rel="noopener noreferrer" className="social-link">
             <Instagram size={24} />
-            <span>@temploancestral</span>
+            <span>@temploancestralsantos</span>
           </a>
         </div>
       </div>
